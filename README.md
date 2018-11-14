@@ -1,0 +1,1 @@
+This is StrangerRanger's first git project!
